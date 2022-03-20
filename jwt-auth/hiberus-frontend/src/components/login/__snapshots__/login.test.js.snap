@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test login component renders correctly 1`] = `
+<section
+  className="hero has-background-grey-light is-fullheight is-fullwidth"
+>
+  <div
+    className="hero-body"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="columns is-centered"
+      >
+        <div
+          className="column is-4-desktop"
+        >
+          <form
+            className="box"
+            onSubmit={[Function]}
+          >
+            
+            <div
+              className="field mt-5"
+            >
+              <label
+                className="label"
+              >
+                Email
+              </label>
+              <div
+                className="controls"
+              >
+                <input
+                  className="input"
+                  name="email"
+                  onChange={[Function]}
+                  placeholder="email"
+                  type="text"
+                  value=""
+                />
+              </div>
+            </div>
+            <div
+              className="field mt-5"
+            >
+              <label
+                className="label"
+              >
+                Password
+              </label>
+              <div
+                className="controls"
+              >
+                <input
+                  className="input"
+                  name="password"
+                  onChange={[Function]}
+                  placeholder="******"
+                  type="password"
+                  value=""
+                />
+              </div>
+            </div>
+            <div
+              className="field mt-5"
+            >
+              <button
+                className="button is-success is-fullwidth"
+              >
+                Login
+              </button>
+            </div>
+            <div
+              className="field mt-5"
+            >
+              <button
+                className="button is-link is-fullwidth"
+                onClick={[Function]}
+              >
+                Register
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;
